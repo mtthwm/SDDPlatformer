@@ -1,0 +1,5 @@
+- This app is a basic 2D platformer game.
+- The game should be tile-based.
+- The player controls one character which can move left and right, as well as jump.
+- When the game is started, the player should be presented with a basic game world.
+- Game worlds can be defined using a PNG image where specific hex codes identify tiles
