@@ -3,3 +3,7 @@
 - The player controls one character which can move left and right, as well as jump.
 - When the game is started, the player should be presented with a basic game world.
 - Game worlds can be defined using a PNG image where specific hex codes identify tiles
+- Mapping between hex values and tiles are done in a JSON document
+- Tiles should have the following properties:
+    - Solid (boolean) - whether the player collides with them or not
+    - Image Path (string) - a path to the image to be used for the tile sprite
